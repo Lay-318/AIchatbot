@@ -21,10 +21,9 @@
     <!-- Center Column (Chat) -->
     <div class="flex-grow flex flex-col w-full bg-black text-black p-4 overflow-auto relative">
       <!-- Background Text -->
-      <div class="absolute inset-0 flex items-center justify-center pointer-events-none select-none">
-        <span class="text-6xl sm:text-8xl md:text-9xl lg:text-[10rem] font-bold text-black/10">AI Chat</span>
-      </div>
-
+    <div class="absolute inset-0 flex items-center justify-center pointer-events-none select-none">
+      <span class="text-6xl sm:text-8xl md:text-9xl lg:text-[10rem] font-bold text-black">AI Chat</span>
+    </div>
       <!-- Chat Content -->
       <div class="flex-grow overflow-y-auto mb-4 relative z-10">
         <ul class="space-y-4">
