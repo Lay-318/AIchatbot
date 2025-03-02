@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col h-screen bg-gray-100">
+  <div class="flex flex-col h-screen bg-white">
     <!-- Header with Configuration -->
     <div class="bg-blue-600 p-1 flex items-center justify-between text-white shadow-md">
       <button 
