@@ -22,7 +22,7 @@
     <div class="flex-grow flex flex-col w-full bg-white text-black p-4 overflow-auto relative">
       <!-- 修改后的背景文字 -->
       <div class="absolute inset-0 flex items-center justify-center pointer-events-none select-none">
-        <span class="text-6xl sm:text-8xl md:text-9xl lg:text-[10rem] font-bold text-black">AIBOT</span>
+        <span class="text-6xl sm:text-8xl md:text-9xl lg:text-[10rem] font-bold text-black">aIBOT</span>
       </div>
       
       <!-- Chat Content -->
